@@ -5,3 +5,4 @@ I am a text file.
 wrong
 All the best to you once again
 
+waht about git pull?
